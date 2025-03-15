@@ -3,68 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\services\\planillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\services\\planillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\services\\interfaces\\iplanillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\services\\interfaces\\iplanillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\database\\sistemapagosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\database\\sistemapagosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\detallesplanillas\\detalleplanillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\detallesplanillas\\detalleplanillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\detallesplanillas\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\detallesplanillas\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\detallesplanillas\\detalleplanilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\detallesplanillas\\detalleplanilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\detallesplanillas\\detalleplanillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\detallesplanillas\\detalleplanillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadoactionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadoactionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\controllers\\detalleplanillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\controllers\\detalleplanillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\services\\interfaces\\idetalleplanillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\services\\interfaces\\idetalleplanillaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\planillas\\planillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,28 +39,36 @@
       "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\planillas\\planillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\migrations\\20250315003019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\migrations\\20250315003019_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadoactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadoactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\detallesplanillas\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\detallesplanillas\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\constants\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\constants\\httpstatuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\dtos\\empleados\\empleadoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|solutionrelative:examen2.api\\dtos\\empleados\\empleadoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26827820-E72D-43B1-A98B-69EFB9918CE1}|Examen2.API\\Examen2.API.csproj|c:\\users\\laure\\projects\\examenunidad2\\examen2.api\\examen2.api\\examen2.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -110,50 +82,212 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmpleadoActionResultDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoActionResultDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoActionResultDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoActionResultDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoActionResultDto.cs",
+              "DocumentIndex": 0,
+              "Title": "PlanillaService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\PlanillaService.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Services\\PlanillaService.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\PlanillaService.cs",
+              "RelativeToolTip": "Examen2.API\\Services\\PlanillaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:42:32.892Z",
+              "WhenOpened": "2025-03-15T05:01:32.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
+              "Title": "IPlanillaService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IPlanillaService.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Services\\Interfaces\\IPlanillaService.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IPlanillaService.cs",
+              "RelativeToolTip": "Examen2.API\\Services\\Interfaces\\IPlanillaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:49:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:53:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:27:26.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallePlanillaController.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Controllers\\DetallePlanillaController.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Controllers\\DetallePlanillaController.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Controllers\\DetallePlanillaController.cs",
+              "RelativeToolTip": "Examen2.API\\Controllers\\DetallePlanillaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:24:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDetallePlanillaService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IDetallePlanillaService.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Services\\Interfaces\\IDetallePlanillaService.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IDetallePlanillaService.cs",
+              "RelativeToolTip": "Examen2.API\\Services\\Interfaces\\IDetallePlanillaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:24:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PlanillaDto.cs",
               "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaDto.cs",
               "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaDto.cs",
               "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaDto.cs",
               "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:42:19.382Z",
+              "WhenOpened": "2025-03-15T01:42:19.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Examen2.API\\Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:03:25.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
+              "Title": "PlanillaActionResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:51:28.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanillaEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:51:30.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PlanillaCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T01:41:58.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadoActionResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoActionResponseDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoActionResponseDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoActionResponseDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoActionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:42:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleadoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
+              "RelativeToolTip": "Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:04:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetallePlanillaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:44:14.535Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "EmpleadoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
+              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:09:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpStatusCode.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Constants\\HttpStatusCode.cs",
+              "RelativeDocumentMoniker": "Examen2.API\\Constants\\HttpStatusCode.cs",
+              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Constants\\HttpStatusCode.cs",
+              "RelativeToolTip": "Examen2.API\\Constants\\HttpStatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T02:43:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "EmpleadoEditDto.cs",
               "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoEditDto.cs",
               "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoEditDto.cs",
@@ -161,281 +295,19 @@
               "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoEditDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:40:54.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEmpleadoService.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
-              "RelativeToolTip": "Examen2.API\\Services\\Interfaces\\IEmpleadoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:32:20.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Common\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Common\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Common\\ResponseDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Common\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:22:38.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmpleadosController.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Controllers\\EmpleadosController.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Controllers\\EmpleadosController.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Controllers\\EmpleadosController.cs",
-              "RelativeToolTip": "Examen2.API\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:09:25.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpleadoService.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\EmpleadoService.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Services\\EmpleadoService.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Services\\EmpleadoService.cs",
-              "RelativeToolTip": "Examen2.API\\Services\\EmpleadoService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:04:21.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250315003019_Init.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Migrations\\20250315003019_Init.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Migrations\\20250315003019_Init.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Migrations\\20250315003019_Init.cs",
-              "RelativeToolTip": "Examen2.API\\Migrations\\20250315003019_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T00:30:19.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Examen2.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\appsettings.json",
-              "RelativeToolTip": "Examen2.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T00:18:02.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Program.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Program.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Program.cs",
-              "RelativeToolTip": "Examen2.API\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T00:17:36.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SistemaPagosDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\SistemaPagosDbContext.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Database\\SistemaPagosDbContext.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\SistemaPagosDbContext.cs",
-              "RelativeToolTip": "Examen2.API\\Database\\SistemaPagosDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T00:14:33.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Helpers\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Helpers\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Helpers\\AutoMapperProfile.cs",
-              "RelativeToolTip": "Examen2.API\\Helpers\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T00:09:19.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T01:40:54.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "PlanillaActionResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:48:57.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DetallePlanillaActionResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaActionResponseDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaActionResponseDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaActionResponseDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaActionResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:48:03.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DetallePlanillaEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaEditDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaEditDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaEditDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaEditDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:46:05.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetallePlanillaCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:45:52.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DetallePlanillaDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\DetallesPlanillas\\DetallePlanillaDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:45:26.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlanillaEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:41:23.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmpleadoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoCreateDto.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:27:37.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmpleadoDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
-              "RelativeToolTip": "Examen2.API\\Dtos\\Empleados\\EmpleadoDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:27:26.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetallePlanillaEntity.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\DetallePlanillaEntity.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Database\\Entities\\DetallePlanillaEntity.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\DetallePlanillaEntity.cs",
-              "RelativeToolTip": "Examen2.API\\Database\\Entities\\DetallePlanillaEntity.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvx0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:19:59.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PlanillaEntity.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\PlanillaEntity.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Database\\Entities\\PlanillaEntity.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\PlanillaEntity.cs",
-              "RelativeToolTip": "Examen2.API\\Database\\Entities\\PlanillaEntity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:16:47.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Examen2.API",
+              "Title": "Examen2.API.csproj",
               "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
               "RelativeDocumentMoniker": "Examen2.API\\Examen2.API.csproj",
               "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
               "RelativeToolTip": "Examen2.API\\Examen2.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T23:08:16.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpleadoEntity.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
-              "RelativeDocumentMoniker": "Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
-              "ToolTip": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
-              "RelativeToolTip": "Examen2.API\\Database\\Entities\\EmpleadoEntity.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:04:48.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:08:16.07Z"
             }
           ]
         }

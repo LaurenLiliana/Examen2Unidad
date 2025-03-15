@@ -1,11 +1,14 @@
-﻿using Examen2.API.Dtos.Empleados;
+﻿using Examen2.API.Dtos.Common;
+using Examen2.API.Dtos.Empleados;
+using Examen2.API.Services;
 using Examen2.API.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace Examen2.API.Controllers
 {
     [ApiController]
-    [Route("api/")]
+    [Route("api/Empleados")]
     public class EmpleadosController : ControllerBase
     {
         private readonly IEmpleadoService _empleadoService;
@@ -16,100 +19,49 @@ namespace Examen2.API.Controllers
         }
 
         [HttpGet]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<List<EmpleadoDto>>> GetEmpleados()
+       
+        public async Task<IActionResult> GetAll()
         {
-            var empleados = await _empleadoService.GetAllEmpleadosAsync();
-            return Ok(empleados);
+            var response = await _empleadoService.GetAllAsync();
+            return StatusCode(response.StatusCode, response);
         }
-
-   
-        [HttpGet("{id}")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<ActionResult<EmpleadoDto>> GetEmpleado(int id)
-        {
-            var empleado = await _empleadoService.GetEmpleadoByIdAsync(id);
-
-            if (empleado == null)
-            {
-                return NotFound(new { message = $"Empleado con ID {id} no encontrado" });
-            }
-
-            return Ok(empleado);
-        }
-
 
         [HttpGet("activos")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<List<EmpleadoDto>>> GetEmpleadosActivos()
+ 
+        public async Task<IActionResult> GetActivos()
         {
-            var empleadosActivos = await _empleadoService.GetEmpleadosActivosAsync();
-            return Ok(empleadosActivos);
+            var response = await _empleadoService.GetActivosAsync();
+            return StatusCode(response.StatusCode, response);
         }
 
-
-        [HttpPost]
-        [ProducesResponseType(StatusCodes.Status201Created)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<ActionResult<EmpleadoActionResponseDto>> CreateEmpleado(EmpleadoCreateDto empleadoDto)
+        [HttpGet("{id}")]
+        
+        public async Task<IActionResult> GetById(int id)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
+            var response = await _empleadoService.GetByIdAsync(id);
+            return StatusCode(response.StatusCode, response);
+        }
 
-            var resultado = await _empleadoService.CreateEmpleadoAsync(empleadoDto);
-
-            if (!resultado.Success)
-            {
-                return BadRequest(resultado);
-            }
-
-         
-            return CreatedAtAction(
-                nameof(GetEmpleado),
-                new { id = resultado.EmpleadoId },
-                resultado
-            );
+    
+        [HttpPost]
+        public async Task<IActionResult> Create([FromBody] EmpleadoCreateDto empleado)
+        {
+            var response = await _empleadoService.CreateAsync(empleado);
+            return StatusCode(response.StatusCode, response);
         }
 
         [HttpPut("{id}")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<ActionResult<EmpleadoActionResponseDto>> UpdateEmpleado(int id, EmpleadoEditDto empleadoDto)
+        public async Task<IActionResult> Update(int id, [FromBody] EmpleadoEditDto empleado)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
-            var resultado = await _empleadoService.EditEmpleadoAsync(id, empleadoDto);
-
-            if (!resultado.Success)
-            {
-                if (resultado.Message.Contains("no encontrado"))
-                {
-                    return NotFound(resultado);
-                }
-                return BadRequest(resultado);
-            }
-
-            return Ok(resultado);
+            var response = await _empleadoService.EditAsync(id, empleado);
+            return StatusCode(response.StatusCode, response);
         }
 
         [HttpDelete("{id}")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<ActionResult<EmpleadoActionResponseDto>> DeleteEmpleadoAsync(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            var resultado = await _empleadoService.DeleteAsync(id);
-
-            if (!resultado.Success)
-            {
-                return NotFound(resultado);
-            }
+            var response = await _empleadoService.DeleteAsync(id);
+            return StatusCode(response.StatusCode, response);
         }
     }
 }

@@ -5,6 +5,7 @@ namespace Examen2.API.Dtos.Empleados
 {
     public class EmpleadoCreateDto
     {
+        
         [Required(ErrorMessage = "El nombre es obligatorio")]
         [StringLength(100, MinimumLength = 2, ErrorMessage = "El nombre debe tener entre 2 y 100 caracteres")]
         public string Nombre { get; set; }
@@ -14,7 +15,7 @@ namespace Examen2.API.Dtos.Empleados
         public string Apellido { get; set; }
 
         [Required(ErrorMessage = "El documento es obligatorio")]
-        [StringLength(20, MinimumLength = 5, ErrorMessage = "El documento debe tener entre 5 y 20 caracteres")]
+        [StringLength(20, MinimumLength = 13, ErrorMessage = "El documento debe tener 13 caracteres")]
         public string Documento { get; set; }
 
         [Required(ErrorMessage = "La fecha de contratación es obligatoria")]

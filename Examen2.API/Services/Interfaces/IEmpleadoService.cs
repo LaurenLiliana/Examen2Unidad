@@ -5,12 +5,11 @@ namespace Examen2.API.Services.Interfaces
 {
     public interface IEmpleadoService
     {
-        Task<List<EmpleadoDto>> GetAllEmpleadosAsync();
-        Task<EmpleadoDto> GetEmpleadoByIdAsync(int id);
-        Task<List<EmpleadoDto>> GetEmpleadosActivosAsync();
-        Task<EmpleadoActionResponseDto> CreateEmpleadoAsync(EmpleadoCreateDto empleadoDto);
-        Task<EmpleadoActionResponseDto> EditEmpleadoAsync(int id, EmpleadoEditDto empleadoDto);
-        Task<ResponseDto<EmpleadoActionResponseDto>> DeleteAsync(int id);
+        Task<ResponseDto<PlanillaActionResponseDto>> CreateAsync(EmpleadoCreateDto empleadoDto);
+        Task<ResponseDto<PlanillaActionResponseDto>> DeleteAsync(int id);
+        Task<ResponseDto<PlanillaActionResponseDto>> EditAsync(int id, EmpleadoEditDto empleadoDto);
+        Task<ResponseDto<List<EmpleadoDto>>> GetActivosAsync();
+        Task<ResponseDto<List<EmpleadoDto>>> GetAllAsync();
+        Task<ResponseDto<EmpleadoDto>> GetByIdAsync(int id);
     }
-
 }

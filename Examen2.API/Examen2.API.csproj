@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
@@ -20,11 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Database\Entities\Common\" />
-    <Folder Include="Dtos\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
 
 </Project>

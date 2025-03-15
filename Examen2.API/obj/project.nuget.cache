@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YiIJ2HPoWc=",
+  "dgSpecHash": "4MgstMqGG1U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\laure\\projects\\Unidad2\\ExamenUnidad2\\Examen2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
+  "projectFilePath": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

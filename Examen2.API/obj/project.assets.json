@@ -3248,11 +3248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\projects\\Unidad2\\ExamenUnidad2\\Examen2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
       "projectName": "Examen2.API",
-      "projectPath": "C:\\Users\\laure\\projects\\Unidad2\\ExamenUnidad2\\Examen2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
+      "projectPath": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\Examen2.API.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\projects\\Unidad2\\ExamenUnidad2\\Examen2\\Examen2.API\\Examen2.API\\obj\\",
+      "outputPath": "C:\\Users\\laure\\projects\\ExamenUnidad2\\Examen2.API\\Examen2.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
